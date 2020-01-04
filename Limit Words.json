@@ -1,0 +1,13 @@
+{
+  "buttons": [
+    "html",
+    "format",
+    "bold",
+    "italic",
+    "lists",
+    "link"
+  ],
+  "plugins": [ "limiter"],
+  "limiter": 800
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "buttons": [
+    "bold",
+    "italic",
+    "lists",
+    "link",
+    "html"
+  ],
+  "plugins": [ "fontfamily" ],
+  "fontfamily": ["Inter", "Montserrat"]
+}

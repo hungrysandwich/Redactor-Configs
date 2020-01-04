@@ -1,0 +1,70 @@
+{
+  "buttons": [
+    "html",
+    "format",
+    "bold",
+    "italic",
+    "lists",
+    "link",
+    "undo",
+    "redo" 
+  ],
+  "toolbarFixed": true,
+  "formatting": [],
+  "formattingAdd": {
+    "body-sm": {
+      "title": "Body - Small",
+      "api": "module.block.format",
+      "args": {
+        "tag": "p",
+        "class":
+        "f-body"
+      }
+    },
+    "body": {
+      "title": "Body - Regular",
+      "api": "module.block.format",
+      "args": {
+        "tag": "p",
+        "class":
+        "f-body"
+      }
+    },
+    "body-lg": {
+      "title": "Body - Large",
+      "api": "module.block.format",
+      "args": {
+        "tag": "p",
+        "class":
+        "f-body"
+      }
+    },
+    "heading-sm": {
+      "title": "Heading - Small",
+      "api": "module.block.format",
+      "args": {
+        "tag": "p",
+        "class":
+        "f-heading--sm"
+      }
+    },
+    "heading": {
+      "title": "Heading - Regular",
+      "api": "module.block.format",
+      "args": {
+        "tag": "h2",
+        "class":
+        "f-heading"
+      }
+    },
+    "heading--lg": {
+      "title": "Heading - Large",
+      "api": "module.block.format",
+      "args": {
+        "tag": "h1",
+        "class":
+        "f-heading--lg"
+      }
+    }
+  }
+}

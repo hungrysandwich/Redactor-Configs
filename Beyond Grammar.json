@@ -1,0 +1,11 @@
+{
+  "buttons": [
+    "html",
+    "format",
+    "bold",
+    "italic",
+    "lists",
+    "link"
+  ],
+  "plugins": [ "beyondgrammar"],
+}
